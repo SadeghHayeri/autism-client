@@ -7,7 +7,7 @@
   "dependencies": {
     "@material-ui/core": "^4.8.3",
     "@material-ui/icons": "^4.5.1",
-    "axios": "^0.19.1",
+    "axios": "^0.21.2",
     "bluebird": "^3.7.2",
     "body-scroll-lock": "^2.6.4",
     "express-validator": "^6.3.1",
